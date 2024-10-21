@@ -13,7 +13,7 @@ This Flutter app demonstrates an onboarding flow with multiple screens, integrat
 ## Screenshots
 | Onboarding Screen 1 | Onboarding Screen 2 | Onboarding Screen 3 |  
 | ------------------- | ------------------- | ------------------- |  
-| ![onboarding1](assets/images/onboarding1.png) | ![onboarding2](assets/images/onboarding2.png) | ![onboarding3](assets/images/onboarding3.png) |  
+| ![onboarding1](https://github.com/user-attachments/assets/14e01812-2f59-4de7-bfbf-e8bbe8a3a2dd) | ![onboarding2](https://github.com/user-attachments/assets/343f59b9-7e03-4baf-9681-d7dc7bf6ca28) | ![onboarding3](https://github.com/user-attachments/assets/bf9e7a7a-3a3b-4dc7-a9bf-8ab29ad4d012) |  
 
 ## How to Run
 1. Clone the repository:
